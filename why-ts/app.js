@@ -9,6 +9,7 @@ var address = document.querySelector("#address");
 // user data
 var user = {};
 
+//jsdoc
 /**
  *
  * @typedef {object} User
