@@ -15,3 +15,7 @@
 7. [[섹션8] 이넘](https://github.com/learn-typescript-study/ts-study-mn/blob/master/markdown/4.md#4-%EC%9D%B4%EB%84%98)
 
 8. [[섹션9] 클래스](https://github.com/learn-typescript-study/ts-study-mn/blob/master/markdown/4.md#5-%ED%81%B4%EB%9E%98%EC%8A%A4)
+
+9. [[섹션10] 제네릭]()
+
+10. [[섹션11] 실습2]()
