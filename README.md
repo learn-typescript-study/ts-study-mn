@@ -19,3 +19,13 @@
 9. [[섹션10] 제네릭](https://github.com/learn-typescript-study/ts-study-mn/blob/master/markdown/4.md#6-%EC%A0%9C%EB%84%A4%EB%A6%AD)
 
 10. [[섹션11] 실습2](https://github.com/learn-typescript-study/ts-study-mn/tree/master/quiz/2_address-book/src)
+
+11. [[섹션12] 타입 추론](https://github.com/learn-typescript-study/ts-study-mn/blob/master/markdown/12.md#12-%ED%83%80%EC%9E%85-%EC%B6%94%EB%A1%A0type-inference)
+
+12. [[섹션13] 타입 단언](https://github.com/learn-typescript-study/ts-study-mn/blob/master/markdown/12.md#13-%ED%83%80%EC%9E%85-%EB%8B%A8%EC%96%B8)
+
+13. [[섹션14] 타입 가드](https://github.com/learn-typescript-study/ts-study-mn/blob/master/markdown/12.md#14-%ED%83%80%EC%9E%85-%EA%B0%80%EB%93%9C)
+
+14. [[섹션15] 타입 호환](https://github.com/learn-typescript-study/ts-study-mn/blob/master/markdown/12.md#15-%ED%83%80%EC%9E%85-%ED%98%B8%ED%99%98)
+
+15. [[섹션16] 타입 모듈화](https://github.com/learn-typescript-study/ts-study-mn/blob/master/markdown/12.md#16-%ED%83%80%EC%9E%85-%EB%AA%A8%EB%93%88%ED%99%94)
