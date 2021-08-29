@@ -16,6 +16,6 @@
 
 8. [[섹션9] 클래스](https://github.com/learn-typescript-study/ts-study-mn/blob/master/markdown/4.md#5-%ED%81%B4%EB%9E%98%EC%8A%A4)
 
-9. [[섹션10] 제네릭]()
+9. [[섹션10] 제네릭](https://github.com/learn-typescript-study/ts-study-mn/blob/master/markdown/4.md#6-%EC%A0%9C%EB%84%A4%EB%A6%AD)
 
-10. [[섹션11] 실습2]()
+10. [[섹션11] 실습2](https://github.com/learn-typescript-study/ts-study-mn/tree/master/quiz/2_address-book/src)
